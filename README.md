@@ -14,7 +14,7 @@ We   strongly   recommend   that   you   continually   review   your   apprentic
 ### User Interface
 ##### Can develop effective user interfaces for at least one channel.
 
-| _answer here_ |
+| Kelvin demonstrated quick picking up of front end UI layer skills - both working from scratch and ammending existing codebases. Together we worked on a mixture of HAML, HTML & SASS |
 |-|
 
 ---
@@ -97,7 +97,7 @@ _(Note – this has a requirement for using a minimum of two problem solving too
 ### Industry Environment
 ##### Can operate effectively in their own business’s, their customers’ and the industry’s environments.
 
-| _answer here_ |
+| Insurance is a complex area to work with and Kelvin has displayed a definite positive line of progress in his understanding of the intricacies of not only the concept of insurance, but internal domain workings around it and how we operate. |
 |-|
 
 ---
@@ -136,7 +136,7 @@ Proficiency – Business Skills
 
 ##### Demonstrates effective communication skills:
 
-| _answer here_ |
+| Whilse pairing with Kelvin, he was able to clearly articulate his thinking; as well as explaining the problem and offering solutions.  |
 |-|
 
 ##### Contributes fully to the work of teams:
