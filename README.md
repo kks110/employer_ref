@@ -14,7 +14,7 @@ We   strongly   recommend   that   you   continually   review   your   apprentic
 ### User Interface
 ##### Can develop effective user interfaces for at least one channel.
 
-| Kelvin demonstrated quick picking up of front end UI layer skills - both working from scratch and ammending existing codebases. Together we worked on a mixture of HAML, HTML & SASS |
+| Kelvin demonstrated quick picking up of front end UI layer skills - both working from scratch and amending existing codebases. Together we worked on a mixture of HAML, HTML & SASS |
 |-|
 
 ---
