@@ -121,9 +121,6 @@ Proficiency – Business Skills
 
 ##### How has your apprentice demonstrated competence in these areas? (please give examples)
 
-| _answer here_ |
-|-|
-
 ##### Demonstrates an analytical and systematic approach to issue resolution:
 
 | _answer here_ |
@@ -162,9 +159,6 @@ Proficiency – Business Skills
 
 ##### How has your apprentice demonstrated competence in this area? (please give examples)
 
-| _answer here_ |
-|-|
-
 ##### Performs a range of work, sometimes complex and non-routine, in a variety of environments:
 
 | _answer here_ |
@@ -188,9 +182,6 @@ Proficiency – Business Skills
   * Determines when issues should be escalated to a higher level.
 
 ##### How has your apprentice demonstrated competence in this area? (please give examples)
-
-| _answer here_ |
-|-|
 
 ##### Works under general direction:
 
@@ -220,9 +211,6 @@ Proficiency – Business Skills
   * Makes decisions which influence the success of projects and team objectives.
 
 ##### How has your apprentice demonstrated competence in this area? (please give examples)
-
-| _answer here_ |
-|-|
 
 ##### Interacts with and influences colleagues: Has working level contact with customers, suppliers and partners:
 
